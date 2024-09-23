@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Ирина\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(34,12): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\Ирина\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(80,31): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Ирина\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(81,30): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Ирина\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(81,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Ирина\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(101,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ирина\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(102,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\Ирина\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
